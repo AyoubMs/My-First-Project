@@ -1,0 +1,16 @@
+C:\Users\ayoub\source\repos\MyFirstProject\HelloWorldInNet5\bin\Debug\net5.0\HelloWorldInNet5.exe
+C:\Users\ayoub\source\repos\MyFirstProject\HelloWorldInNet5\bin\Debug\net5.0\HelloWorldInNet5.deps.json
+C:\Users\ayoub\source\repos\MyFirstProject\HelloWorldInNet5\bin\Debug\net5.0\HelloWorldInNet5.runtimeconfig.json
+C:\Users\ayoub\source\repos\MyFirstProject\HelloWorldInNet5\bin\Debug\net5.0\HelloWorldInNet5.runtimeconfig.dev.json
+C:\Users\ayoub\source\repos\MyFirstProject\HelloWorldInNet5\bin\Debug\net5.0\HelloWorldInNet5.dll
+C:\Users\ayoub\source\repos\MyFirstProject\HelloWorldInNet5\bin\Debug\net5.0\HelloWorldInNet5.pdb
+C:\Users\ayoub\source\repos\MyFirstProject\HelloWorldInNet5\obj\Debug\net5.0\HelloWorldInNet5.csproj.AssemblyReference.cache
+C:\Users\ayoub\source\repos\MyFirstProject\HelloWorldInNet5\obj\Debug\net5.0\HelloWorldInNet5.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ayoub\source\repos\MyFirstProject\HelloWorldInNet5\obj\Debug\net5.0\HelloWorldInNet5.AssemblyInfoInputs.cache
+C:\Users\ayoub\source\repos\MyFirstProject\HelloWorldInNet5\obj\Debug\net5.0\HelloWorldInNet5.AssemblyInfo.cs
+C:\Users\ayoub\source\repos\MyFirstProject\HelloWorldInNet5\obj\Debug\net5.0\HelloWorldInNet5.csproj.CoreCompileInputs.cache
+C:\Users\ayoub\source\repos\MyFirstProject\HelloWorldInNet5\obj\Debug\net5.0\HelloWorldInNet5.dll
+C:\Users\ayoub\source\repos\MyFirstProject\HelloWorldInNet5\obj\Debug\net5.0\refint\HelloWorldInNet5.dll
+C:\Users\ayoub\source\repos\MyFirstProject\HelloWorldInNet5\obj\Debug\net5.0\HelloWorldInNet5.pdb
+C:\Users\ayoub\source\repos\MyFirstProject\HelloWorldInNet5\obj\Debug\net5.0\HelloWorldInNet5.genruntimeconfig.cache
+C:\Users\ayoub\source\repos\MyFirstProject\HelloWorldInNet5\obj\Debug\net5.0\ref\HelloWorldInNet5.dll
